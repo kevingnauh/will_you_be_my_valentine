@@ -1,0 +1,9 @@
+# development and container configurations
+.devcontainer/
+.codesandbox/
+.github/
+
+# environment configuration files
+.eslintrc.json
+
+yarn.lock
